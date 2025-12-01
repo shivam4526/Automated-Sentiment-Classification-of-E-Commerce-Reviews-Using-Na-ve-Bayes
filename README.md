@@ -1,0 +1,2 @@
+# Automated-Sentiment-Classification-of-E-Commerce-Reviews-Using-Na-ve-Bayes
+Sentiment Analysis of real-world consumer reviews, specifically using a large dataset of Flipkart customer feedback. Since online reviews are unstructured and vary widely in tone, the project applies Natural Language Processing (NLP) techniques to automatically analyze and classify them into three sentiment categories:Positive,Negative,and Neutral.
